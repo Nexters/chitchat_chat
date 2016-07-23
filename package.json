@@ -1,0 +1,22 @@
+{
+  "name": "chitchat_chat",
+  "version": "0.0.1",
+  "description": "chitchat chatroom server",
+  "main": "build/lib/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuponthetop/chitchat_chat.git"
+  },
+  "author": "cuponthetop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuponthetop/chitchat_chat/issues"
+  },
+  "homepage": "https://github.com/cuponthetop/chitchat_chat#readme",
+  "dependencies": {
+    "socket.io": "^1.4.8"
+  }
+}
